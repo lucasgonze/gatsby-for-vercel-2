@@ -11,3 +11,7 @@ To get started with Gatsby on Vercel, you can use the [Gatsby CLI](https://www.g
 ```shell
 $ gatsby new gatsby-site
 ```
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/FoosLollBerlin190917-74_(cropped).jpg/1200px-FoosLollBerlin190917-74_(cropped).jpg" alt="The embed didn't work">
+
